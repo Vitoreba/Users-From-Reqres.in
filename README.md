@@ -1,3 +1,3 @@
 # Users-From-Reqres.in
 
-Projeto para teste da empresa Sankhya.
+Projeto Android para teste da empresa Sankhya.
