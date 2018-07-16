@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "658250416071",
+    "firebase_url": "https://teste-sankhya-7b881.firebaseio.com",
+    "project_id": "teste-sankhya-7b881",
+    "storage_bucket": "teste-sankhya-7b881.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658250416071:android:8df5fea57c6e2a0e",
+        "android_client_info": {
+          "package_name": "com.vitor.testesankhya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658250416071-v8mbhqvea6rl4emi6give27s4v0o0o4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnyrL-uJRNoQeUbhJHOS5ki16LzG73yAk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
